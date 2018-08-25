@@ -1,0 +1,57 @@
+body html {
+    margin: 0;
+    padding: 0;
+}
+
+/*.backgroundimg {
+    background-image: url("../images/keyboard_off.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vh;
+}
+
+.img-responsive img thumbnail {
+    margin: 15px;
+    padding: 15px;
+}*/
+
+form{
+    position: fixed;
+     top: 50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+     
+}
+
+.card {
+    float: right;
+    margin: 50PX;
+}
+
+
+/* Contact.HTML CSS Here */
+
+.github {
+    float: left;
+}
+
+.gmail {
+    float: left;
+}
+
+.linkedin {
+    float: left;
+}
+
+
+
+footer {
+    width: 100%;
+    height: 1px;
+    background-color: #66666631;
+    padding: 20px 0px;
+    position: fixed;
+    bottom: 0%;
+}
